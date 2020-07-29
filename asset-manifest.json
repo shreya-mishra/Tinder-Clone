@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shreya-mishra/Tinder-Clone.git/static/css/main.c6b54b08.chunk.css",
+    "main.js": "/shreya-mishra/Tinder-Clone.git/static/js/main.1c7b03d0.chunk.js",
+    "main.js.map": "/shreya-mishra/Tinder-Clone.git/static/js/main.1c7b03d0.chunk.js.map",
+    "runtime-main.js": "/shreya-mishra/Tinder-Clone.git/static/js/runtime-main.22e9ba6f.js",
+    "runtime-main.js.map": "/shreya-mishra/Tinder-Clone.git/static/js/runtime-main.22e9ba6f.js.map",
+    "static/js/2.901c2cfd.chunk.js": "/shreya-mishra/Tinder-Clone.git/static/js/2.901c2cfd.chunk.js",
+    "static/js/2.901c2cfd.chunk.js.map": "/shreya-mishra/Tinder-Clone.git/static/js/2.901c2cfd.chunk.js.map",
+    "index.html": "/shreya-mishra/Tinder-Clone.git/index.html",
+    "precache-manifest.b6f735cd9cd31f78d9aca92f67183ceb.js": "/shreya-mishra/Tinder-Clone.git/precache-manifest.b6f735cd9cd31f78d9aca92f67183ceb.js",
+    "service-worker.js": "/shreya-mishra/Tinder-Clone.git/service-worker.js",
+    "static/css/main.c6b54b08.chunk.css.map": "/shreya-mishra/Tinder-Clone.git/static/css/main.c6b54b08.chunk.css.map",
+    "static/js/2.901c2cfd.chunk.js.LICENSE.txt": "/shreya-mishra/Tinder-Clone.git/static/js/2.901c2cfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e9ba6f.js",
+    "static/js/2.901c2cfd.chunk.js",
+    "static/css/main.c6b54b08.chunk.css",
+    "static/js/main.1c7b03d0.chunk.js"
+  ]
+}
